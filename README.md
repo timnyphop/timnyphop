@@ -1,6 +1,6 @@
 # 👨🏼‍💻 Timnyphop
 
-    __Frontend Developer__
+    __**Frontend Developer**__
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kotegovtimofej389@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/der_res)
