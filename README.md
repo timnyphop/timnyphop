@@ -26,15 +26,15 @@
 
 - **Description**: Game Portal.
 - **Tech Stack**: HTML, CSS, JavaScript, Nextjs, Node.js, MongoDB,express,mongoose
-- **GitHub Repo to Frontend**: [Link to the repository](https://github.com/timnyphop/pindie-frontend)
-- **GitHub Repo to Backend**: [Link to the repository](https://github.com/timnyphop/pindie-backend)
+- **GitHub Repository to Frontend**: [Link to the repository](https://github.com/timnyphop/pindie-frontend)
+- **GitHub Repository to Backend**: [Link to the repository](https://github.com/timnyphop/pindie-backend)
 
 ### 🌟 Project 2 (in beta): **Raiting university 🎓**
 
 - **Description**: Raiting of eductaion organisatios.
 - **Tech Stack**: TypeScript, Express, React
 
-- **GitHub Repo Frontend**: [Link to the repository](https://github.com/timnyphop/Portal-school-frontend-ts)  
-- **GitHub Repo Backend**: [Link to the repository](https://github.com/timnyphop/portal-school-backend)
+- **GitHub Repository Frontend**: [Link to the repository](https://github.com/timnyphop/Portal-school-frontend-ts)  
+- **GitHub Repository Backend**: [Link to the repository](https://github.com/timnyphop/portal-school-backend)
 ### More of my projects in my github 😉
 ---
