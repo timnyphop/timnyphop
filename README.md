@@ -14,6 +14,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-E23237?style=flat-square&logo=angular&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -29,12 +30,11 @@
 - **GitHub Repository to Frontend**: [Link to the repository](https://github.com/timnyphop/pindie-frontend)
 - **GitHub Repository to Backend**: [Link to the repository](https://github.com/timnyphop/pindie-backend)
 
-### 🌟 Project 2 (in beta): **Raiting university 🎓**
+### 🌟 Project 2 (in beta): *University Reshetne**
 
-- **Description**: Raiting of eductaion organisatios.
-- **Tech Stack**: TypeScript, Express, React
+- **Description**:Web app for university
+- **Tech Stack**: TS,Angular,taiga-ui,ionic.
 
-- **GitHub Repository Frontend**: [Link to the repository](https://github.com/timnyphop/Portal-school-frontend-ts)  
-- **GitHub Repository Backend**: [Link to the repository](https://github.com/timnyphop/portal-school-backend)
+- **GitHub Repository Frontend**: [Link to the repository](https://github.com/timnyphop/reshetnev)  
 ### More of my projects in my github 😉
 ---
